@@ -1,0 +1,11 @@
+.btn, input  {
+	display: block;
+	margin: 33px auto;
+	outline:none;
+}
+.btn:focus {
+	outline: none;
+}
+.container {
+	background: url(../img/images.jpg);
+}
